@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/f3ae9ca3-98cb-49c6-97e1-824d053367c5/joystix.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240408%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240408T150228Z&X-Amz-Expires=86400&X-Amz-Signature=ff7681e98bfd81306a78c148bba22b707f462ac7b712bccf7ee18e9895aba646&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22joystix.woff2%22&response-content-type=font%2Fwoff2&x-id=GetObject
