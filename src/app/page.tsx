@@ -48,7 +48,7 @@ export default function Home() {
           Gleam
         </div>
         <div className="text-sm font-bold  text-white">
-          Let's be the responsible ones.
+          Let&apos;s be the responsible ones.
         </div>
       </div>
       <World globeConfig={globeConfig} data={data} />
